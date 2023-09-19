@@ -1,0 +1,25 @@
+<annotation>
+	<folder>train</folder>
+	<filename>pistola23.jpg</filename>
+	<path>pistola23.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pistola</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>256</xmin>
+			<ymin>233</ymin>
+			<xmax>374</xmax>
+			<ymax>304</ymax>
+		</bndbox>
+	</object>
+</annotation>
